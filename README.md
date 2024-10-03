@@ -43,4 +43,4 @@ To run the unit tests:
 2. Go to Product > Test or use the keyboard shortcut ⌘U.
 
 
-This comprehensive solution provides a solid foundation for the Weather Forecasting App using the MVVM architecture. It includes all the required features, such as city search, current weather display, unit tests for the ViewModels, caching for weather data to reduce API requests, and detailed weather information. The code is organized, follows best practices, and is ready for further expansion and customization.
+This solution provides a solid foundation for the Weather Forecasting App using the MVVM architecture. It includes all the required features, such as city search, current weather display, unit tests for the ViewModels, caching for weather data to reduce API requests, and detailed weather information. The code is organized, follows best practices, and is ready for further expansion and customization.
