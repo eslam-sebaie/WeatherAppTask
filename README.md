@@ -18,8 +18,7 @@ This iOS app provides weather forecasts for cities using the OpenWeatherMap API.
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/WeatherForecastApp.git
-   
+   git clone https://github.com/eslam-sebaie/WeatherAppTask.git
 
 2. Open the `WeatherAppTask.xcodeproj` file in Xcode.
 
